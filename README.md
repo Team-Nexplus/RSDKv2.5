@@ -1,3 +1,8 @@
+# Archival Notice
+This repo is kept here for archival purposes
+
+For the new repo, go to [RSDKv2-Plus](https://github.com/Team-Nexplus/RSDKv2-Plus)
+
 # RSDKv2 Decompilation
 
 A complete decompilation of the Retro-Sonic Engine v2.
